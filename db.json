@@ -1,0 +1,23 @@
+{
+"products" : [
+{"id":1,"name":"Boat-billed heron","category":"Maroon"},
+{"id":2,"name":"Dabchick","category":"Fuscia"},
+{"id":3,"name":"Eagle, long-crested hawk","category":"Aquamarine"},
+{"id":4,"name":"White-nosed coatimundi","category":"Mauv"},
+{"id":5,"name":"Plains zebra","category":"Fuscia"},
+{"id":6,"name":"Gull, pacific","category":"Teal"},
+{"id":7,"name":"Ring-tailed coatimundi","category":"Turquoise"},
+{"id":8,"name":"Oribi","category":"Aquamarine"},
+{"id":9,"name":"Sugar glider","category":"Mauv"},
+{"id":10,"name":"Moose","category":"Mauv"},
+{"id":11,"name":"Macaw, scarlet","category":"Goldenrod"},
+{"id":12,"name":"Wolf, mexican","category":"Fuscia"},
+{"id":13,"name":"Antelope, sable","category":"Purple"},
+{"id":14,"name":"Steenbok","category":"Fuscia"},
+{"id":15,"name":"Falcon, peregrine","category":"Purple"},
+{"id":16,"name":"White-necked stork","category":"Puce"},
+{"id":17,"name":"Red phalarope","category":"Turquoise"},
+{"id":18,"name":"Squirrel, golden-mantled ground","category":"Mauv"},
+{"id":19,"name":"Yellow-necked spurfowl","category":"Red"},
+{"id":20,"name":"Arctic lemming","category":"Green"}]
+}
